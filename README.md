@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <img src=".github/assets/banner.png" alt="AlgoVerse Banner" width="100%" />
 
@@ -16,7 +16,7 @@
 [![TailwindCSS 4](https://img.shields.io/badge/Tailwind-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-D4AF37?style=for-the-badge)](LICENSE)
 
-**Experience the next generation of algorithm and data structure visualization.**  
+**Experience the next generation of algorithm and data structure visualization.**
 **Seamless. Interactive. Impossibly smooth.**
 
 [Live Demo →](https://algoverse.vercel.app) · [Report Bug](https://github.com/Divyakush2006/AlgoVerse/issues) · [Request Feature](https://github.com/Divyakush2006/AlgoVerse/issues)
@@ -62,39 +62,36 @@ Built with a premium design language featuring glassmorphism aesthetics, 3D WebG
 
 ## ✨ Key Features
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🔬 Sorting Laboratory
+
 Step-through visualization for **6 sorting algorithms** with real-time telemetry tracking comparisons, swaps, and execution progress. Supports custom datasets, adjustable speed (0.25x–4x), and array sizes up to 200 elements.
 
 ### ⚔️ Comparison Arena
+
 Side-by-side algorithm **race mode** — pit any two sorting algorithms against the same dataset and watch them compete in real time with live metrics and winner declaration.
 
 ### 📊 Complexity Lab
+
 Interactive **SVG growth-curve charting** plotted from computed data points. Toggle between Best/Average/Worst case, Time/Space complexity, and dynamically adjust input size (n) up to 1000.
 
-</td>
-<td width="50%">
-
 ### 🌳 Tree Explorer
+
 Canvas-rendered **BST, AVL, Min-Heap, and Max-Heap** visualization with animated insertions, automatic AVL rotations (LL, RR, LR, RL), and step-by-step traversals (inorder, preorder, postorder).
 
 ### 🔗 Graph Visualizer
+
 Click-to-place **interactive node graph** with weighted edges, supporting **BFS**, **DFS**, and **Dijkstra's shortest path** with animated traversal highlighting.
 
 ### 🧠 Algorithm Recommender
-Constraint-based **neural advisory engine** — input system parameters (memory, latency, data volume) and receive optimal algorithm recommendations with architectural rationale.
 
-</td>
-</tr>
-</table>
+Constraint-based **neural advisory engine** — input system parameters (memory, latency, data volume) and receive optimal algorithm recommendations with architectural rationale.
 
 <br />
 
 <div align="center">
+
 <img src=".github/assets/structures.png" alt="Data Structures" width="90%" />
+
 </div>
 
 <br />
@@ -103,7 +100,7 @@ Constraint-based **neural advisory engine** — input system parameters (memory,
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│                         AlgoVerse Frontend                         │
+│                         AlgoVerse Frontend                          │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
 │   ┌─────────────┐    ┌──────────────────┐    ┌──────────────────┐   │
@@ -306,7 +303,7 @@ AlgoVerse employs a bespoke **dark-gold design language** built on custom CSS de
 |:-------|:-------|:--------------|
 | **Render FPS** | 60fps | Hardware-accelerated CSS transforms + `requestAnimationFrame` |
 | **Bundle Size** | Optimized | Vite tree-shaking + code splitting per module |
-| **3D Scene** | Adaptive | `dpr={[1, 2]}` responsive pixel ratio, baked shadows |
+| **3D Scene** | Adaptive | `dpr=[1, 2]` responsive pixel ratio, baked shadows |
 | **Animations** | Jank-free | Framer Motion `layout` animations with GPU compositing |
 | **State** | Zero-latency | React hooks with local state — no external state library overhead |
 | **Canvas Rendering** | Real-time | Direct Canvas 2D API for tree/graph rendering at native speed |
@@ -380,4 +377,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </a>
 
 </div>
-]]>
