@@ -379,3 +379,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+**Built by [Divyakush Punjabi](https://divyakush.is-a.dev)**
+
+[Portfolio](https://divyakush.is-a.dev) · [GitHub](https://github.com/Divyakush2006) · [LinkedIn](https://linkedin.com/in/divyakush-punjabi)
+
+</div>
