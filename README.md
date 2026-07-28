@@ -384,8 +384,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built by [Divyakush Punjabi](https://divyakush.is-a.dev)**
+**Built by [Divyakush Punjabi](https://www.divyakush.com)**
 
-[Portfolio](https://divyakush.is-a.dev) · [GitHub](https://github.com/Divyakush2006) · [LinkedIn](https://linkedin.com/in/divyakush-punjabi)
+[Portfolio](https://www.divyakush.com) · [GitHub](https://github.com/Divyakush2006) · [LinkedIn](https://linkedin.com/in/divyakush-punjabi)
 
 </div>
