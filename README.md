@@ -19,9 +19,9 @@
 **Experience the next generation of algorithm and data structure visualization.**
 **Seamless. Interactive. Impossibly smooth.**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_AlgoVerse-D4AF37?style=for-the-badge&logoColor=white)](https://algo-verse-gold.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_AlgoVerse-D4AF37?style=for-the-badge&logoColor=white)](https://divyakush2006.github.io/AlgoVerse/)
 
-[Live Demo →](https://algo-verse-gold.vercel.app/) · [Report Bug](https://github.com/Divyakush2006/AlgoVerse/issues) · [Request Feature](https://github.com/Divyakush2006/AlgoVerse/issues)
+[Live Demo →](https://divyakush2006.github.io/AlgoVerse/) · [Report Bug](https://github.com/Divyakush2006/AlgoVerse/issues) · [Request Feature](https://github.com/Divyakush2006/AlgoVerse/issues)
 
 <br />
 
