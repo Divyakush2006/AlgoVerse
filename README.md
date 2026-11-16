@@ -48,6 +48,7 @@
 - [Performance](#-performance)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
+- [Security](#-security)
 - [License](#-license)
 
 <br />
@@ -346,6 +347,10 @@ Contributions are welcome! Here's how to get involved:
 Please ensure your code follows the existing style conventions and includes appropriate TypeScript types.
 
 <br />
+
+## 🔒 Security
+
+Please report vulnerabilities privately as described in the [security policy](https://github.com/Divyakush2006/.github/blob/main/SECURITY.md). Do not open a public issue.
 
 ## 📄 License
 
